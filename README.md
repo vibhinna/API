@@ -1,2 +1,2 @@
 # API
-This is for test purpose.
+This file is used for testing purpose.
